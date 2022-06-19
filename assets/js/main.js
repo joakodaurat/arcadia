@@ -36,7 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/Captura.PNG': 'center',
+							'images/Captura.PNG': 'center',	
+							'images/fondo1.jpeg': 'center',
+							'images/fondo2.jpeg': 'center',
 						},
 
 					// Delay.
