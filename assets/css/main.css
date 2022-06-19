@@ -790,13 +790,13 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: darkseagreen; }
+    background-color: darkslategray; }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
   button:active,
   .button:active {
-    background-color: darkseagreen; }
+    background-color: darkslategray; }
   input[type="submit"].disabled, input[type="submit"]:disabled,
   input[type="reset"].disabled,
   input[type="reset"]:disabled,
